@@ -12,6 +12,6 @@
     </div>
 </div>
 ```
->div._3dface上的button,:hover...事件可能无法响应
+div._3dface上的button,:hover...事件可能无法响应
 
 解决办法：给div.space3d添加{perspective: 1000000px;}
